@@ -1,4 +1,4 @@
-# CEMAN’s QGIS algorithms
+# CEMAN’s QGIS Algorithms
 
 Collection of custom QGIS processing algorithms, scripts, and models.
 
